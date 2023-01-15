@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.RegistrationTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-01-15T16:59:11" hostname="DESKTOP-46KRLH8" time="25.37">
+  <properties/>
+  <testcase name="registrationShortPassword" classname="tests.RegistrationTests" time="4.333"/>
+  <testcase name="registrationSuccess" classname="tests.RegistrationTests" time="2.287"/>
+  <testcase name="registrationWrongEmail" classname="tests.RegistrationTests" time="6.343"/>
+  <testcase name="registrationWrongPassword" classname="tests.RegistrationTests" time="2.258"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
